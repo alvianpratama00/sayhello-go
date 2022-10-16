@@ -1,3 +1,3 @@
-module github.com/alvianpratama00/golang_trial
+module github.com/alvianpratama00/sayhello-go
 
 go 1.18
